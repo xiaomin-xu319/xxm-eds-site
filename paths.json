@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/xxm-eds-site/:/",
+    "/content/xxm-eds-site/configuration:/.helix/config.json",
+    "/content/xxm-eds-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/xxm-eds-site/"
   ]
 }
